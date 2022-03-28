@@ -1,2 +1,2 @@
 # nearTestnetTransaction
-Near testnet transaction
+Successfully completed Near testnet transaction
